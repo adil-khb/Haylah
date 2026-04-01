@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://haylahlabel.com/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <image:image>
+      <image:loc>https://haylahlabel.com/images/social-preview.jpg</image:loc>
+      <image:title>Haylah Label social preview</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://haylahlabel.com/privacy-policy/</loc>
+    <lastmod>2026-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://haylahlabel.com/terms-of-service/</loc>
+    <lastmod>2026-04-02</lastmod>
+  </url>
+</urlset>

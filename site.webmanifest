@@ -1,0 +1,26 @@
+{
+  "name": "Haylah Label",
+  "short_name": "Haylah",
+  "description": "Mauritius-based bohemian fashion and jewellery brand.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1eb",
+  "theme_color": "#f6f1eb",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
