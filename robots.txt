@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://haylahlabel.com/sitemap.xml
+Sitemap: https://adil-khb.github.io/Haylah/sitemap.xml
