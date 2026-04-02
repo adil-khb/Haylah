@@ -35,6 +35,7 @@ jobs:
             --exclude '.git' \
             --exclude '.github' \
             --exclude '.DS_Store' \
+            --exclude '_site' \
             ./ ./_site/
 
       - name: Upload artifact
